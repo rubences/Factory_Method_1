@@ -1,0 +1,4 @@
+2022-10-25 14:54:56.323379 [INFO] ('Mensage generico', '200')
+2022-10-25 14:54:56.323609 [WARNING] ('Mensage generico', '404')
+2022-10-25 14:54:56.323753 [ERROR] ('Mensage generico', '401')
+2022-10-25 14:54:56.323887 [DEBUG] ('Mensage generico', '500')
